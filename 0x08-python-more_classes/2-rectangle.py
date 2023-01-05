@@ -5,10 +5,8 @@ Defines a Rectangle class.
 
 
 class Rectangle:
-    """
-    This is a rectangle whose initialization,
-    width and height setter and getter methods defined
-    """
+    """Rectangle class defined by width and height."""
+
     def __init__(self, width=0, height=0):
         if type(width) is not int:
             raise TypeError("width must be an integer")
