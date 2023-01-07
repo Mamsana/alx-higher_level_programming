@@ -108,7 +108,7 @@ A combo example:
     <BLANKLINE>
     Teneo, inquit, finem illi videri nihil dolere.
     <BLANKLINE>
-    Transfer idem ad modestiam vel temperantiam,
+    Transfer idem ad modestiam vel temperantiam, 
     quae est moderatio cupiditatum rationi oboediens.
     <BLANKLINE>
     Si id dicis, vicimus.
