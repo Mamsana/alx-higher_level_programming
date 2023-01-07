@@ -25,7 +25,7 @@ The parameter ```last_name``` is optional. If no last name is provided, an empty
 ::
 
     >>> say_my_name("Beta")
-    My name is Beta
+    My name is Beta 
 
 Invalid Names
 =============
